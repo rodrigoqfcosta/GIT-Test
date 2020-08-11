@@ -1,3 +1,7 @@
 linha um modificada!
 linha dois modificada!
+<<<<<<< HEAD
 linha quatro modificada!
+=======
+linha três modificada!
+>>>>>>> ff9498389e86a3b6a7942036fc9ebf9210023795
