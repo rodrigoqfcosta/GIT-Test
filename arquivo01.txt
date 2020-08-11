@@ -1,2 +1,3 @@
 linha um modificada!
 linha dois modificada!
+linha três modificada!
